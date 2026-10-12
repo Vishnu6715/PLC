@@ -1,10 +1,4 @@
-# Pixel Perfect Pixel
-
 Implement exactly the screenshot and nothing else
-
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
 
 Continue developing this project in the [Lovable editor](https://lovable.dev/projects/844bfa4e-a095-424e-ab20-3a95aa3997cd).
 
