@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep PLC challenge data, ladder execution, and evaluation in pure modules under `src/lib/plc/` so simulations are deterministic and testable independently of the interface.
