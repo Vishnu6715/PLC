@@ -31,8 +31,7 @@ export const defaultMotorProgram: LadderProgram = {
         ],
         [
           { signal: "Q0.0", type: "NO" },
-          { signal: "I0.1", type: "NC" },
-          { signal: "I0.2", type: "NC" },
+          { signal: "I0.1", type: "NC" }.
         ],
       ],
       output: "Q0.0",
